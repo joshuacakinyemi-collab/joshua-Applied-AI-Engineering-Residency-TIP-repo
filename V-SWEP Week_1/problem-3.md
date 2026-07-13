@@ -2,9 +2,9 @@
 
 Problem: longestCommonPrefix
 
-Input: s = "racecar", t = "carrace"
+Input: s =Input: strs = ["bat","bag","bank","band"]
 
-Output: true
+Output: "ba"
 
 JavaScript Solution: 
 
